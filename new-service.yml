@@ -1,1 +1,5 @@
 url: http://
+username: bob
+password: pwd
+settings:
+  poolSize: 10
