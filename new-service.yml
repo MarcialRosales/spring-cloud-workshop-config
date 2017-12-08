@@ -3,3 +3,4 @@ username: bob
 password: pwd
 settings:
   poolSize: 10
+  maxTimeout: 100
