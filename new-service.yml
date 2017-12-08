@@ -1,5 +1,5 @@
-url: http://
-username: bob
-password: pwd
+url: http://qa
+username: bob-qa
+password: pwd-qa
 settings:
   poolSize: 10
