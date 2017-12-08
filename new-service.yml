@@ -3,4 +3,4 @@ username: bob-qa
 password: pwd-qa
 settings:
   poolSize: 10
-  maxTimeout: 100
+  maxTimeout: 500
